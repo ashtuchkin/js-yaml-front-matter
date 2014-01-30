@@ -16,8 +16,7 @@
     "mocha": "~1.3.0"
   },
   "engines": {
-    "node": ">=0.8.x",
-    "npm": "1.1.x"
+    "node": ">=0.8"
   },
   "bin": {
     "yaml-front-matter": "bin/js-yaml-front.js",
